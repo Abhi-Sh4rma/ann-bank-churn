@@ -27,5 +27,4 @@ pip install numpy pandas scikit-learn tensorflow
 python ann_bank_churn_sigmoid.py
 ## 🚀 Run this project instantly
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/1W0oTEtxK0ySHwzLdceFE6vkwI1EVCJ02?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W0oTEtxK0ySHwzLdceFE6vkwI1EVCJ02?usp=sharing)
