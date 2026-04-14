@@ -25,3 +25,6 @@ This project predicts whether a bank customer will leave (churn) using an Artifi
 ```bash
 pip install numpy pandas scikit-learn tensorflow
 python ann_bank_churn_sigmoid.py
+## 🚀 Run this project instantly
+
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1W0oTEtxK0ySHwzLdceFE6vkwI1EVCJ02?usp=sharing)
